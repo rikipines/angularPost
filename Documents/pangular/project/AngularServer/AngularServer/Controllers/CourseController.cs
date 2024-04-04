@@ -19,7 +19,7 @@ namespace AngularServer.Controllers
             },
             new Course(){Id=3,Name="Occupational Therapy",CategoryId=4,LessonsAmount=18,DateOfStart=new DateTime(2024,03,25),syllibus=new List<string>() ,LecturerId=1,Image="https://www.kernelios.com/wp-content/uploads/2023/01/%D7%A7%D7%95%D7%A8%D7%A1-%D7%94%D7%99%D7%99%D7%98%D7%A7-%D7%A2%D7%9D-%D7%94%D7%AA%D7%97%D7%99%D7%99%D7%91%D7%95%D7%AA-%D7%9C%D7%A2%D7%91%D7%95%D7%93%D7%94.jpeg",Way_Of_Learning=Way_Of_Learning.Frontaly
             },
-            new Course(){Id=4,Name="English",CategoryId=7,LessonsAmount=30,DateOfStart=new DateTime(2024,04,15),syllibus=new List<string> (),LecturerId=2,Image="https://che.org.il/wp-content/uploads/2019/12/shutterstock_602226047.jpg",Way_Of_Learning=Way_Of_Learning.Frontaly
+            new Course(){Id=4,Name="English",CategoryId=2,LessonsAmount=30,DateOfStart=new DateTime(2024,04,15),syllibus=new List<string> (),LecturerId=2,Image="https://che.org.il/wp-content/uploads/2019/12/shutterstock_602226047.jpg",Way_Of_Learning=Way_Of_Learning.Frontaly
             },
             new Course(){Id=5,Name="Computer Science",CategoryId=3,LessonsAmount=16,DateOfStart=new DateTime(2024,03,29),syllibus=new List<string>() ,LecturerId=3,Image="https://www.afeka.ac.il/media/bbxb0xiz/%D7%AA%D7%95%D7%90%D7%A8-%D7%A8%D7%90%D7%A9%D7%95%D7%9F-%D7%91%D7%9E%D7%93%D7%A2%D7%99-%D7%94%D7%9E%D7%97%D7%A9%D7%91-6.jpg?width=825&rnd=133198304172900000",Way_Of_Learning=Way_Of_Learning.Zoom
             },

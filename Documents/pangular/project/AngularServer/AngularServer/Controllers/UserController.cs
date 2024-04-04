@@ -12,7 +12,7 @@ namespace AngularServer.Controllers
         // GET: api/<UserController>
         static List<User> users=new List<User>() 
         {
-            new User() {Id=1,Name="esri",Password="1234", Address="gotlib",Email="wdd@fddf"},
+            new User() {Id=1,Name="esti",Password="1234", Address="gotlib",Email="wdd@fddf"},
             new User() {Id=1,Name="riki",Password="12345", Address="jbjk",Email="rikip7531@gmail.com"}
         }
         ;
